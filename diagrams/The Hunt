@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T11:38:58.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="kAvLHE9bQh24qqfYcN2o" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T11:41:46.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="xsPhBNB-hQyXHejSDU8P" version="15.1.0" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="2029" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
           <mxGeometry x="820" y="210" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-3" value="The Prvok &lt;br&gt;building" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="400.24" width="120" height="80" as="geometry" />
+          <mxGeometry x="1280" y="740.24" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-10" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TxGnFHTPyNda__GqpRue-7" target="TxGnFHTPyNda__GqpRue-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -73,58 +73,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-11" value="NFT content GIF" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1560" y="400.24" width="120" height="80" as="geometry" />
+          <mxGeometry x="1570" y="740.24" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-12" target="RjXYJ9RcbRK1f0YXPRQR-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-12" value="WEB" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1940" y="400.24" width="120" height="80" as="geometry" />
+          <mxGeometry x="1950" y="740.24" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-13" target="RjXYJ9RcbRK1f0YXPRQR-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-13" value="SOCIALS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1940" y="810" width="120" height="80" as="geometry" />
+          <mxGeometry x="1950" y="1150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-16" target="RjXYJ9RcbRK1f0YXPRQR-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-16" value="NFT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1920" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="1930" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-18" target="RjXYJ9RcbRK1f0YXPRQR-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-18" value="Final NFT&lt;br&gt;FNFT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="2280" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="2290" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-22" target="RjXYJ9RcbRK1f0YXPRQR-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-22" value="&lt;b&gt;PARTNERS&lt;/b&gt;&lt;br&gt;BAYC&lt;br&gt;Axie Infinity&lt;br&gt;Decentraland..." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="2280" y="600" width="120" height="80" as="geometry" />
+          <mxGeometry x="2290" y="940" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-26" value="Transfer real world ownership" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2820" y="400.24" width="120" height="80" as="geometry" />
+          <mxGeometry x="2830" y="740.24" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-30" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.153;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="F9COGV8kwRJvkQSblyF7-28" target="F9COGV8kwRJvkQSblyF7-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-28" value="Label a part&lt;br&gt;in the drawing" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="1410" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-33" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F9COGV8kwRJvkQSblyF7-31" target="F9COGV8kwRJvkQSblyF7-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-31" value="Make photos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="400.24" width="120" height="80" as="geometry" />
+          <mxGeometry x="1420" y="740.24" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-36" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.222;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="F9COGV8kwRJvkQSblyF7-34" target="F9COGV8kwRJvkQSblyF7-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-34" value="Disect the 3D model&lt;br&gt;into parts" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="510" width="120" height="80" as="geometry" />
+          <mxGeometry x="1420" y="850" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-12" value="" style="endArrow=classic;html=1;exitX=0.869;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TxGnFHTPyNda__GqpRue-5" target="TxGnFHTPyNda__GqpRue-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -139,7 +139,7 @@
           <mxGeometry x="90" y="210" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-1" value="Explain the story,&lt;br&gt;make a landing site" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="310" width="120" height="80" as="geometry" />
+          <mxGeometry x="1760" y="650" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-15" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TxGnFHTPyNda__GqpRue-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -157,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-5" value="Writing white paper" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="490" width="120" height="80" as="geometry" />
+          <mxGeometry x="1760" y="830" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-17" value="Same for other parts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="300" width="150" height="60" as="geometry" />
@@ -169,7 +169,7 @@
           <mxGeometry x="290" y="495" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-6" value="Writing light paper" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="570" width="120" height="80" as="geometry" />
+          <mxGeometry x="1760" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-19" value="" style="endArrow=classic;html=1;exitX=0.653;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.035;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TxGnFHTPyNda__GqpRue-14" target="TxGnFHTPyNda__GqpRue-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -187,7 +187,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-10" value="Make a gallery of NFTs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="400.24" width="120" height="80" as="geometry" />
+          <mxGeometry x="1760" y="740.24" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-21" value="NFTs will compose into Final NFT, first one minitng it will sign ownership contract of house" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="497.5" width="200" height="77.5" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry x="90" y="830" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-13" value="Create SC" style="ellipse;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="1750" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-24" value="just BAYC wall miting &lt;br&gt;earns 540 Eth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="870" width="150" height="80" as="geometry" />
@@ -211,7 +211,7 @@
           <mxGeometry x="820" y="680" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-20" value="Create SC for composable final NFT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="2110" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-30" value="Prvok sell = cover costs/initial money for further development" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="870" width="140" height="80" as="geometry" />
@@ -237,7 +237,7 @@
           <mxGeometry x="590" y="730" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-23" value="Get a lawyer to write the real world contract" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="220" width="120" height="80" as="geometry" />
+          <mxGeometry x="1760" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-40" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TxGnFHTPyNda__GqpRue-24" target="TxGnFHTPyNda__GqpRue-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -252,7 +252,7 @@
           <mxGeometry x="590" y="830" width="155" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-25" value="Check if some address minted the FNFT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2650" y="400.24" width="120" height="80" as="geometry" />
+          <mxGeometry x="2660" y="740.24" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-42" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TxGnFHTPyNda__GqpRue-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -267,7 +267,7 @@
           <mxGeometry x="590" y="920" width="155" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-30" value="Broadcast the intent to the world" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="810" width="120" height="80" as="geometry" />
+          <mxGeometry x="1760" y="1150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-44" value="35% of gains above 170 Eth goes to treasue for future development/DAO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="1010" width="155" height="70" as="geometry" />
@@ -282,7 +282,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-33" value="Hire a SOCIALS person... :D" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="910" width="120" height="80" as="geometry" />
+          <mxGeometry x="1760" y="1250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-46" value="" style="endArrow=classic;html=1;entryX=0.001;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TxGnFHTPyNda__GqpRue-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -294,25 +294,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-35" value="Promote intent to crypto projects" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="400.24" width="120" height="80" as="geometry" />
+          <mxGeometry x="2110" y="740.24" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RjXYJ9RcbRK1f0YXPRQR-38" target="F9COGV8kwRJvkQSblyF7-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-38" value="Promote intent to crypto projects" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="810" width="120" height="80" as="geometry" />
+          <mxGeometry x="2110" y="1150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RjXYJ9RcbRK1f0YXPRQR-41" target="RjXYJ9RcbRK1f0YXPRQR-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-41" value="Hide NFTs in different games and places" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2450" y="600" width="120" height="80" as="geometry" />
+          <mxGeometry x="2460" y="940" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-47" value="Total amount raised has to be at least 170 Eth to unlock final NFT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="1270" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-55" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2890" y="730" width="220" height="240" as="geometry" />
+          <mxGeometry x="2900" y="1070" width="220" height="240" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-45" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="RjXYJ9RcbRK1f0YXPRQR-55">
           <mxGeometry width="70" height="40" as="geometry" />
@@ -357,7 +357,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-56" value="Writing Roadmap" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="650" width="120" height="80" as="geometry" />
+          <mxGeometry x="1760" y="990" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-50" value="25 % of gains above 170 Eth goes to Scoolpt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="1230" width="155" height="70" as="geometry" />
