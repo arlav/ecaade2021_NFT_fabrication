@@ -7,11 +7,16 @@ pragma solidity ^0.8.0;
 // these need to be changed the Github versions of the Contracts for Remix
 
 //https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts
- import "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/ERC1155.sol";
- import "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/extensions/ERC1155Burnable.sol";
- import "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/extensions/ERC1155Pausable.sol";
+ //import "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/ERC1155.sol";
+ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC1155/ERC1155.sol";
+ //import "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/extensions/ERC1155Burnable.sol";
+ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC1155/extensions/ERC1155Burnable.sol";
+ //import "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/extensions/ERC1155Pausable.sol";
+ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC1155/extensions/ERC1155Pausable.sol";
  //import "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/utils/Context.sol";
  import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Context.sol";
+ //Also Access Control Enumerable was needed
+ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/AccessControlEnumerable.sol";
 
 /**
  * @dev {ERC1155} token, including:
