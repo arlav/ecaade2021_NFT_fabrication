@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T11:24:58.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="CJUZF81mARCt0iCKTAI5" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T11:27:30.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="LS6PEE9YRFxKc2tsrrM8" version="15.1.0" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="1420" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4733" dy="2580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,17 +200,20 @@
         <mxCell id="F9COGV8kwRJvkQSblyF7-16" value="NFT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1920" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-18" target="RjXYJ9RcbRK1f0YXPRQR-25">
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-18" target="RjXYJ9RcbRK1f0YXPRQR-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-18" value="Final NFT&lt;br&gt;FNFT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2280" y="30" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-22" target="RjXYJ9RcbRK1f0YXPRQR-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-22" value="&lt;b&gt;PARTNERS&lt;/b&gt;&lt;br&gt;BAYC&lt;br&gt;Axie Infinity&lt;br&gt;Decentraland..." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2280" y="600" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-26" value="Transfer real world ownership" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="2620" y="30" width="120" height="80" as="geometry" />
+        <mxCell id="F9COGV8kwRJvkQSblyF7-26" value="Transfer real world ownership" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2820" y="400.24" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F9COGV8kwRJvkQSblyF7-30" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.153;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="F9COGV8kwRJvkQSblyF7-28" target="F9COGV8kwRJvkQSblyF7-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -279,7 +282,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-25" value="Check if some address minted the FNFT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2450" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="2650" y="400.24" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RjXYJ9RcbRK1f0YXPRQR-30" target="F9COGV8kwRJvkQSblyF7-13">
           <mxGeometry relative="1" as="geometry" />
@@ -304,6 +307,12 @@
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-38" value="Promote intent to crypto projects" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2100" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RjXYJ9RcbRK1f0YXPRQR-41" target="RjXYJ9RcbRK1f0YXPRQR-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-41" value="Hide NFTs in different games and places" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="600" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
