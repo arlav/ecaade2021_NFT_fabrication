@@ -5,6 +5,8 @@ pragma solidity ^0.8.0;
 
 
 // these need to be changed the Github versions of the Contracts for Remix
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts
 // import "../ERC1155.sol";
 // import "../extensions/ERC1155Burnable.sol";
 // import "../extensions/ERC1155Pausable.sol";
