@@ -1,170 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T11:30:43.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="1ElU1j3zVWTA9GvUvdTU" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T11:33:26.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="K4DT5J420OEJZfrK1Aqr" version="15.1.0" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="716" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4057" dy="2211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="17ea667e15c223fc-1" value="The Prvok &lt;br&gt;building" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="90" y="400.24" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-3" value="" style="endArrow=classic;html=1;exitX=0.752;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.18;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="17ea667e15c223fc-1" target="4zgw7qHfsIWwQvZ1G_xk-10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="470.24" as="sourcePoint" />
-            <mxPoint x="350" y="481.24" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-14" value="Disect the 3D model" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4zgw7qHfsIWwQvZ1G_xk-3" vertex="1" connectable="0">
-          <mxGeometry x="-0.2479" y="1" relative="1" as="geometry">
-            <mxPoint x="16" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-4" value="" style="endArrow=classic;html=1;entryX=0.182;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.744;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="17ea667e15c223fc-1" target="4zgw7qHfsIWwQvZ1G_xk-10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="480.24" as="sourcePoint" />
-            <mxPoint x="240" y="639.6800000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-17" value="Label a part in the drawing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4zgw7qHfsIWwQvZ1G_xk-4" vertex="1" connectable="0">
-          <mxGeometry x="0.1709" y="-3" relative="1" as="geometry">
-            <mxPoint x="-15" y="-3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4zgw7qHfsIWwQvZ1G_xk-10" target="4zgw7qHfsIWwQvZ1G_xk-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-21" value="Landing site&lt;br&gt;White paper&lt;br&gt;Light paper&lt;br&gt;The story" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="4zgw7qHfsIWwQvZ1G_xk-20" vertex="1" connectable="0">
-          <mxGeometry x="0.2359" y="-1" relative="1" as="geometry">
-            <mxPoint x="-10" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-22" value="Smart contract for minting" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4zgw7qHfsIWwQvZ1G_xk-10" target="4zgw7qHfsIWwQvZ1G_xk-19" edge="1">
-          <mxGeometry x="0.3373" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="310" />
-              <mxPoint x="530" y="310" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-10" value="NFT content GIF" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="400.24" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-12" value="WEB" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="400.24" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-18" value="SOCIALS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="530" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-24" value="Composable&amp;nbsp;&lt;br&gt;token" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4zgw7qHfsIWwQvZ1G_xk-19" target="4zgw7qHfsIWwQvZ1G_xk-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-26" value="burn" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.439;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4zgw7qHfsIWwQvZ1G_xk-19" target="4zgw7qHfsIWwQvZ1G_xk-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="630" y="230" />
-              <mxPoint x="663" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-19" value="NFT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="270" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zgw7qHfsIWwQvZ1G_xk-23" target="F9COGV8kwRJvkQSblyF7-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-23" value="Final NFT&lt;br&gt;FNFT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="270" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-25" value="Get a hint" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="130" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-29" value="Discord?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4zgw7qHfsIWwQvZ1G_xk-27" target="4zgw7qHfsIWwQvZ1G_xk-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="440" width="20" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-28" value="&lt;b&gt;PARTNERS&lt;/b&gt;&lt;br&gt;BAYC&lt;br&gt;Axie Infinity&lt;br&gt;Decentraland..." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="465" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TxGnFHTPyNda__GqpRue-1" value="MInting Prvok NFT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="TxGnFHTPyNda__GqpRue-1" value="MInting Prvok NFT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="750" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TxGnFHTPyNda__GqpRue-2" value="Whitelisting holders/players of NFT projects" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="TxGnFHTPyNda__GqpRue-2" value="Whitelisting holders/players of NFT projects" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="750" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-32" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="17ea667e15c223fc-1" target="4zgw7qHfsIWwQvZ1G_xk-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180.24" y="480.80000000000007" as="sourcePoint" />
-            <mxPoint x="341.6" y="480.2400000000001" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-33" value="Make Photos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="4zgw7qHfsIWwQvZ1G_xk-32">
-          <mxGeometry x="-0.2479" y="1" relative="1" as="geometry">
-            <mxPoint x="16" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4zgw7qHfsIWwQvZ1G_xk-34" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="4zgw7qHfsIWwQvZ1G_xk-32">
-          <mxGeometry x="0.1584" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TxGnFHTPyNda__GqpRue-3" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TxGnFHTPyNda__GqpRue-1" target="TxGnFHTPyNda__GqpRue-2">
+        <mxCell id="TxGnFHTPyNda__GqpRue-3" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TxGnFHTPyNda__GqpRue-1" target="TxGnFHTPyNda__GqpRue-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="880" as="sourcePoint" />
             <mxPoint x="520" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TxGnFHTPyNda__GqpRue-4" value="Selections of &lt;br&gt;interesting partners" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TxGnFHTPyNda__GqpRue-3">
+        <mxCell id="TxGnFHTPyNda__GqpRue-4" value="Selections of &lt;br&gt;interesting partners" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TxGnFHTPyNda__GqpRue-3" vertex="1" connectable="0">
           <mxGeometry x="-0.3524" y="-1" relative="1" as="geometry">
             <mxPoint x="18" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TxGnFHTPyNda__GqpRue-5" value="NFT of walls will be&lt;br&gt;distributed to BAYC,&lt;br&gt;NFT amount = number of BAYC adresses holders" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="TxGnFHTPyNda__GqpRue-5" value="NFT of walls will be&lt;br&gt;distributed to BAYC,&lt;br&gt;NFT amount = number of BAYC adresses holders" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="890" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-1" value="Transfer real world ownership" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="270" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TxGnFHTPyNda__GqpRue-6" value="Example" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TxGnFHTPyNda__GqpRue-6" value="Example" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="850" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-29" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-3" target="F9COGV8kwRJvkQSblyF7-28">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-29" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="F9COGV8kwRJvkQSblyF7-3" target="F9COGV8kwRJvkQSblyF7-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TxGnFHTPyNda__GqpRue-7" value="BAYC wallets get whitelisted to mint NFT for 0,1 Eth. Max cap per wallet:3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TxGnFHTPyNda__GqpRue-7" value="BAYC wallets get whitelisted to mint NFT for 0,1 Eth. Max cap per wallet:3" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="890" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-32" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-3" target="F9COGV8kwRJvkQSblyF7-31">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-32" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F9COGV8kwRJvkQSblyF7-3" target="F9COGV8kwRJvkQSblyF7-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TxGnFHTPyNda__GqpRue-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TxGnFHTPyNda__GqpRue-5" target="TxGnFHTPyNda__GqpRue-7">
+        <mxCell id="TxGnFHTPyNda__GqpRue-8" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TxGnFHTPyNda__GqpRue-5" target="TxGnFHTPyNda__GqpRue-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="920" as="sourcePoint" />
             <mxPoint x="550" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-35" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-3" target="F9COGV8kwRJvkQSblyF7-34">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-35" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="F9COGV8kwRJvkQSblyF7-3" target="F9COGV8kwRJvkQSblyF7-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TxGnFHTPyNda__GqpRue-9" value="After week remaining unminted objects can be minted by everyone. Max cap per wallet:3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TxGnFHTPyNda__GqpRue-9" value="After week remaining unminted objects can be minted by everyone. Max cap per wallet:3" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="890" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-3" value="The Prvok &lt;br&gt;building" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-3" value="The Prvok &lt;br&gt;building" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1270" y="400.24" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TxGnFHTPyNda__GqpRue-10" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TxGnFHTPyNda__GqpRue-7" target="TxGnFHTPyNda__GqpRue-9">
+        <mxCell id="TxGnFHTPyNda__GqpRue-10" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TxGnFHTPyNda__GqpRue-7" target="TxGnFHTPyNda__GqpRue-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="775" y="950" as="sourcePoint" />
             <mxPoint x="825" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TxGnFHTPyNda__GqpRue-11" value="Promo on our website, on our partners socials" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TxGnFHTPyNda__GqpRue-11" value="Promo on our website, on our partners socials" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="1000" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.847;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-11" target="RjXYJ9RcbRK1f0YXPRQR-1">
@@ -179,58 +72,58 @@
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-11" target="RjXYJ9RcbRK1f0YXPRQR-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-11" value="NFT content GIF" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-11" value="NFT content GIF" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1560" y="400.24" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-12" target="RjXYJ9RcbRK1f0YXPRQR-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-12" value="WEB" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-12" value="WEB" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1940" y="400.24" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-13" target="RjXYJ9RcbRK1f0YXPRQR-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-13" value="SOCIALS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-13" value="SOCIALS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1940" y="810" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-16" target="RjXYJ9RcbRK1f0YXPRQR-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-16" value="NFT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-16" value="NFT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1920" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-18" target="RjXYJ9RcbRK1f0YXPRQR-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-18" value="Final NFT&lt;br&gt;FNFT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-18" value="Final NFT&lt;br&gt;FNFT" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2280" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-22" target="RjXYJ9RcbRK1f0YXPRQR-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-22" value="&lt;b&gt;PARTNERS&lt;/b&gt;&lt;br&gt;BAYC&lt;br&gt;Axie Infinity&lt;br&gt;Decentraland..." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-22" value="&lt;b&gt;PARTNERS&lt;/b&gt;&lt;br&gt;BAYC&lt;br&gt;Axie Infinity&lt;br&gt;Decentraland..." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2280" y="600" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-26" value="Transfer real world ownership" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-26" value="Transfer real world ownership" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2820" y="400.24" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-30" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.153;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-28" target="F9COGV8kwRJvkQSblyF7-11">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-30" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.153;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="F9COGV8kwRJvkQSblyF7-28" target="F9COGV8kwRJvkQSblyF7-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-28" value="Label a part&lt;br&gt;in the drawing" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-28" value="Label a part&lt;br&gt;in the drawing" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-33" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-31" target="F9COGV8kwRJvkQSblyF7-11">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-33" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F9COGV8kwRJvkQSblyF7-31" target="F9COGV8kwRJvkQSblyF7-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-31" value="Make photos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-31" value="Make photos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1410" y="400.24" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-36" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.222;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F9COGV8kwRJvkQSblyF7-34" target="F9COGV8kwRJvkQSblyF7-11">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-36" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.222;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="F9COGV8kwRJvkQSblyF7-34" target="F9COGV8kwRJvkQSblyF7-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F9COGV8kwRJvkQSblyF7-34" value="Disect the 3D model&lt;br&gt;into parts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F9COGV8kwRJvkQSblyF7-34" value="Disect the 3D model&lt;br&gt;into parts" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1410" y="510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TxGnFHTPyNda__GqpRue-12" value="" style="endArrow=classic;html=1;exitX=0.869;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TxGnFHTPyNda__GqpRue-5" target="TxGnFHTPyNda__GqpRue-11">
@@ -326,13 +219,13 @@
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RjXYJ9RcbRK1f0YXPRQR-23" target="F9COGV8kwRJvkQSblyF7-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TxGnFHTPyNda__GqpRue-31" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="TxGnFHTPyNda__GqpRue-30" parent="1">
+        <mxCell id="TxGnFHTPyNda__GqpRue-31" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TxGnFHTPyNda__GqpRue-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="1490" as="sourcePoint" />
             <mxPoint x="260" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TxGnFHTPyNda__GqpRue-38" value="optimistic" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TxGnFHTPyNda__GqpRue-31">
+        <mxCell id="TxGnFHTPyNda__GqpRue-38" value="optimistic" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="TxGnFHTPyNda__GqpRue-31">
           <mxGeometry x="0.3687" relative="1" as="geometry">
             <mxPoint x="-18" as="offset" />
           </mxGeometry>
@@ -414,6 +307,39 @@
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-41" value="Hide NFTs in different games and places" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2450" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-55" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2890" y="730" width="220" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-45" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="RjXYJ9RcbRK1f0YXPRQR-55">
+          <mxGeometry width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-46" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RjXYJ9RcbRK1f0YXPRQR-55">
+          <mxGeometry x="5" y="50" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-47" value="Object" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RjXYJ9RcbRK1f0YXPRQR-55">
+          <mxGeometry x="80" y="10" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-48" value="Process" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RjXYJ9RcbRK1f0YXPRQR-55">
+          <mxGeometry x="80" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-49" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RjXYJ9RcbRK1f0YXPRQR-55">
+          <mxGeometry x="5" y="100" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-50" value="External imput needed" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RjXYJ9RcbRK1f0YXPRQR-55">
+          <mxGeometry x="80" y="110" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-51" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="RjXYJ9RcbRK1f0YXPRQR-55">
+          <mxGeometry x="5" y="150" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-52" value="Roadmap point" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="RjXYJ9RcbRK1f0YXPRQR-55">
+          <mxGeometry x="80" y="160" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-53" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="RjXYJ9RcbRK1f0YXPRQR-55">
+          <mxGeometry x="5" y="200" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-54" value="Goal" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="RjXYJ9RcbRK1f0YXPRQR-55">
+          <mxGeometry x="80" y="210" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
