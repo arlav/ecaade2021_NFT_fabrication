@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T11:33:26.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="K4DT5J420OEJZfrK1Aqr" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T11:37:31.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="370pP1RIr1jgO4sYF-W9" version="15.1.0" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="4057" dy="2211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,6 +340,12 @@
         </mxCell>
         <mxCell id="RjXYJ9RcbRK1f0YXPRQR-54" value="Goal" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="RjXYJ9RcbRK1f0YXPRQR-55">
           <mxGeometry x="80" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RjXYJ9RcbRK1f0YXPRQR-56" target="F9COGV8kwRJvkQSblyF7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RjXYJ9RcbRK1f0YXPRQR-56" value="Writing Roadmap" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="650" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
