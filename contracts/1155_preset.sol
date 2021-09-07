@@ -10,7 +10,8 @@ pragma solidity ^0.8.0;
  import "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/ERC1155.sol";
  import "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/extensions/ERC1155Burnable.sol";
  import "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/extensions/ERC1155Pausable.sol";
- import "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/utils/Context.sol";
+ //import "https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/utils/Context.sol";
+ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Context.sol";
 
 /**
  * @dev {ERC1155} token, including:
